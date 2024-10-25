@@ -58,7 +58,7 @@ is steps 6 and 7, which apply udpates to the added projects.
 
 7. [Patch the Added UVM/SystemC Project](#Patch-the-Added-UVMSystemC-Project)
 
-8. [Build the 'uvm-EXAMPLE-single_cycle' Project](#Build-the-'uvm-EXAMPLE-single_cycle'-Project)
+8. [Build the 'uvm-EXAMPLE-single_cycle' Project](#Build-the-uvm-EXAMPLE-single_cycle-Project)
 
 
 
