@@ -7,6 +7,8 @@ Installation Notes For The Project 'uvm-EXAMPLE-single_cycle'
  * [Installation Notes for Windows](#Installation-Notes-for-Windows)
 
 
+
+
 Installation Notes for Linux
 ===============================================================================
 
@@ -16,11 +18,11 @@ are located in the [INSTALL_LINUX.md](INSTALL_LINUX.md) file.
 The installation has been tested using the following Linux
 distribution and tools:
 
-+----------------------------------+------------------------+
+|----------------------------------|------------------------|
 | __LINUX DISTRIBUTION__           | __TOOLS AND VERSION__  |
-+----------------------------------+------------------------+
-| Debian GNU/Linux 12 (bookworm) \ | git version 2.39.5     |
-| Debian Version 12.5            \ |                        |
+|----------------------------------|------------------------|
+| Debian GNU/Linux 12 (bookworm)   | git version 2.39.5     |
+| Debian Version 12.5              |                        |
 | Kernel 6.1.90-1 (2024-05-03)     | GNU automake 1.16.5    |
 |                                  |                        |
 |                                  | GNU bash 5.2.15(1)     |
@@ -32,7 +34,21 @@ distribution and tools:
 |                                  | GNU libtool 2.4.7      |
 |                                  |                        |
 |                                  | GNU wget 1.21.3        |
-+----------------------------------+------------------------+
+|----------------------------------|------------------------|
+
+
+|----------------------------------|------------------------|
+| __LINUX DISTRIBUTION__           | __TOOLS AND VERSION__  |
+|----------------------------------|------------------------|
+| Debian GNU/Linux 12 (bookworm)   | git version 2.39.5     |
+| Debian Version 12.5              | GNU automake 1.16.5    |
+| Kernel 6.1.90-1 (2024-05-03)     | GNU bash 5.2.15(1)     |
+|                                  | GNU g++ 12.2.0         |
+|                                  | GNU gmake 4.3          |
+|                                  | GNU libtool 2.4.7      |
+|                                  | GNU g++ 12.2.0         |
+|                                  | GNU wget 1.21.3        |
+|----------------------------------|------------------------|
 
 
 Installation Notes for Windows
