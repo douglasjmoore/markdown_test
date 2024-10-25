@@ -18,7 +18,6 @@ are located in the [INSTALL_LINUX.md](INSTALL_LINUX.md) file.
 The installation has been tested using the following Linux
 distribution and tools:
 
-|--------------------------------- |----------------------- |
 | __LINUX DISTRIBUTION__           | __TOOLS AND VERSION__  |
 |----------------------------------|------------------------|
 | Debian GNU/Linux 12 (bookworm)   | git version 2.39.5     |
@@ -34,10 +33,10 @@ distribution and tools:
 |                                  | GNU libtool 2.4.7      |
 |                                  |                        |
 |                                  | GNU wget 1.21.3        |
-|----------------------------------|------------------------|
 
 
-|----------------------------------|------------------------|
+
+
 | __LINUX DISTRIBUTION__           | __TOOLS AND VERSION__  |
 |----------------------------------|------------------------|
 | Debian GNU/Linux 12 (bookworm)   | git version 2.39.5     |
@@ -48,7 +47,7 @@ distribution and tools:
 |                                  | GNU libtool 2.4.7      |
 |                                  | GNU g++ 12.2.0         |
 |                                  | GNU wget 1.21.3        |
-|----------------------------------|------------------------|
+
 
 
 Installation Notes for Windows
