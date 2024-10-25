@@ -19,6 +19,7 @@ The installation has been tested using the following Linux
 distribution and tools:
 
 | __LINUX DISTRIBUTION__           | __TOOLS AND VERSION__  |
+|----------------------------------|------------------------|
 | Debian GNU/Linux 12 (bookworm)   | git version 2.39.5     |
 | Debian Version 12.5              |                        |
 | Kernel 6.1.90-1 (2024-05-03)     | GNU automake 1.16.5    |
