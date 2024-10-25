@@ -3,15 +3,15 @@ Installation Notes For The Project 'uvm-EXAMPLE-single_cycle'
 ===============================================================================
 
 **Contents**
- * [Installation Notes for Linux]
- * [Installation Notes for Windows]
+ * [Installation Notes for Linux](Installation Notes for Linux)
+ * [Installation Notes for Windows](Installation Notes for Windows)
 
 
 Installation Notes for Linux
 ===============================================================================
 
 The detailed Linux installation notes for the demonstration project
-are located in the [INSTALL_LINUX.md](../INSTALL_LINUX.md) file.
+are located in the [INSTALL_LINUX.md](INSTALL_LINUX.md) file.
 
 The installation has been tested using the following Linux
 distribution and tools:
@@ -39,7 +39,7 @@ Installation Notes for Windows
 ===============================================================================
 
 The detailed Linux installation notes for the demonstration project
-are located in the [INSTALL_WINDOWS.md](../INSTALL_WINDOWS.md) file.
+are located in the [INSTALL_WINDOWS.md](INSTALL_WINDOWS.md) file.
 
 The installation has been tested using the following Windows
 and Visual Studio versions:
