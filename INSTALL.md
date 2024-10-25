@@ -18,7 +18,7 @@ are located in the [INSTALL_LINUX.md](INSTALL_LINUX.md) file.
 The installation has been tested using the following Linux
 distribution and tools:
 
-|----------------------------------|------------------------|
+|--------------------------------- |----------------------- |
 | __LINUX DISTRIBUTION__           | __TOOLS AND VERSION__  |
 |----------------------------------|------------------------|
 | Debian GNU/Linux 12 (bookworm)   | git version 2.39.5     |
