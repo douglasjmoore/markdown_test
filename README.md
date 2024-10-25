@@ -23,7 +23,7 @@ are 1) open source, and 2) compatable with both Windows and Linux.
 Licensing and Copyright
 -----------------------
 
-See the separate [LICENSE](../LICENSE) and [NOTICE](../NOTICE)
+See the separate [LICENSE](LICENSE) and [NOTICE](NOTICE)
 files to determine your rights and responsiblities for using the
 UVM/SystemC Demonstration Project.
 
