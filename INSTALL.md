@@ -35,8 +35,6 @@ distribution and tools:
 |                                  | GNU wget 1.21.3        |
 
 
-
-
 | __LINUX DISTRIBUTION__           | __TOOLS AND VERSION__  |
 |----------------------------------|------------------------|
 | Debian GNU/Linux 12 (bookworm)   | git version 2.39.5     |
@@ -49,7 +47,6 @@ distribution and tools:
 |                                  | GNU wget 1.21.3        |
 
 
-
 Installation Notes for Windows
 ===============================================================================
 
@@ -59,25 +56,25 @@ are located in the [INSTALL_WINDOWS.md](INSTALL_WINDOWS.md) file.
 The installation has been tested using the following Windows
 and Visual Studio versions:
 
-+---------------------+-------------------------------------------+
 | __WINDOWS VERSION__ | __VISUAL STUDIO VERSION DETAILS__         |
-+---------------------+-------------------------------------------+
-| Windows           \ | Microsoft Visual Studio Community 2022  \ |
-| 10.0.19045        \ | Version 17.11.3                           |
+|---------------------|-------------------------------------------|
+| Windows             | Microsoft Visual Studio Community 2022  \ |
+| 10.0.19045          | Version 17.11.3                           |
 | Build 19045         |                                           |
-|                     | VisualStudio.17.Release/17.11.3+35303.130 |
+|                     | VisualStudio.17.Release/17.11.3|35303.130 |
 |                     |                                           |
 |                     | Microsoft .NET Framework                \ |
 |                     | Version 4.8.09037                         |
-+---------------------+-------------------------------------------+
-| Windows           \ | Microsoft Visual Studio Community 2022  \ |
-| 10.0.19045        \ | Version 17.11.5                           |
-| Build 19045         |                                           |
-|                     | VisualStudio.17.Release/17.11.5+35327.3   |
-|                     |                                           |
-|                     | Microsoft .NET Framework                \ |
+
+
+
+| __WINDOWS VERSION__ | __VISUAL STUDIO VERSION DETAILS__         |
+|---------------------|-------------------------------------------|
+| Windows             | Microsoft Visual Studio Community 2022    |
+| 10.0.19045          | Version 17.11.5                           |
+| Build 19045         | VisualStudio.17.Release/17.11.5|35327.3   |
+|                     | Microsoft .NET Framework                  |
 |                     | Version 4.8.09037                         |
-+---------------------+-------------------------------------------+
 
 
 ---
