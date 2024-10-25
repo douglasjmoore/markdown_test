@@ -10,7 +10,7 @@ License
 
 This project is licensed under the Apache Software Foundations Apache
 License, Version 2.0, January 2004.  A copy of the full license is
-available in the [LICENSE](../LICENSE) file.
+available in the [LICENSE](LICENSE) file.
 
 
 Acknowledgements
