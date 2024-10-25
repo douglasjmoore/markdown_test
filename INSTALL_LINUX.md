@@ -87,11 +87,11 @@ sections, below.
 
 2. [Download SystemC and UVM/SystemC Archives](#Download-SystemC-and-UVMSystemC-Archives)
 
-3. [Unpack the SystemC and UVM/SystemC Archives](#Unpack-the-SystemC-and-UVM/SystemC-Archives)
+3. [Unpack the SystemC and UVM/SystemC Archives](#Unpack-the-SystemC-and-UVMSystemC-Archives)
 
 4. [Configure and Build SystemC](#Configure-and-Build-SystemC)
 
-5. [Configure and Build UVM/SystemC](#Configure-and-Build-UVM/SystemC)
+5. [Configure and Build UVM/SystemC](#Configure-and-Build-UVMSystemC)
 
 6. [Build and Test the Demonstration Project Executables](#Build-and-Test-the-Demonstration-Project-Executables)
 
