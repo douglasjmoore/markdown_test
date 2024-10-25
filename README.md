@@ -44,14 +44,14 @@ Project Support Documentation
 -----------------------------
 
 Supporting documents regarding the modules and mechanisms used in
-this project are located in the [documents](../documents/INDEX.md)
+this project are located in the [documents](/documents/INDEX.md)
 directory.
 
 
 Installation
 ------------
 
-See the [INSTALL.md](../INSTALL.md) file for project installation
+See the [INSTALL.md](INSTALL.md) file for project installation
 instructions.  
 
 All known project dependencies and instructions are in the
@@ -91,7 +91,7 @@ dynamic linking with nominal SystemC library installations.
 Release Notes
 -------------
 
-See the separate [RELEASE_NOTES.md](../RELEASE_NOTES.md) file, which
+See the separate [RELEASE_NOTES.md](RELEASE_NOTES.md) file, which
 provides up-to-date information about this release of UVM/SystemC
 Demonstration Project.
 
