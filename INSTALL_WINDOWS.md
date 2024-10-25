@@ -44,21 +44,24 @@ is steps 6 and 7, which apply udpates to the added projects.
 
 ### Installation Steps
 
-1. [Download This Repository from GitHub]
+1. [Download This Repository from GitHub](#Download-This-Repository-from-GitHub)
 
-2. [Download SystemC and UVM/SystemC Archives]
+2. [Download SystemC and UVM/SystemC Archives](#Download-SystemC-and-UVMSystemC-Archives)
 
-3. [Unpack the SystemC and UVM/SystemC Archives]
+3. [Unpack the SystemC and UVM/SystemC Archives](#Unpack-the-SystemC-and-UVMSystemC-Archives)
 
-4. [Open the MSVC Solution]
+4. [Open the MSVC Solution](#Open-the-MSVC-Solution)
 
-5. [Add SystemC and UVM/SystemC into the MSVC Solution]
+5. [Add SystemC and UVM/SystemC into the MSVC Solution](#Add-SystemC-and-UVMSystemC-into-the-MSVC-Solution)
 
-6. [Patch the Added SystemC and SystemC-core Projects]
+6. [Patch the Added SystemC and SystemC-core Projects](#Patch-the-Added-SystemC-and-SystemC-core-Projects)
 
-7. [Patch the Added UVM/SystemC Project]
+7. [Patch the Added UVM/SystemC Project](#Patch-the-Added-UVMSystemC-Project)
 
-8. [Build the 'uvm-EXAMPLE-single_cycle' Project]
+8. [Build the 'uvm-EXAMPLE-single_cycle' Project](#Build-the-'uvm-EXAMPLE-single_cycle'-Project)
+
+
+
 
 
 Download This Repository from GitHub
@@ -265,15 +268,12 @@ Add SystemC and UVM/SystemC into the MSVC Solution
 1. From Visual Studio add the reference SystemC and UVM/SystemC projects
 into the solution:
 
-	+---------------+-----------------------------------------------------------------+
+	
 	| PROJECT       | LOCATION                                                        |
-	+---------------+-----------------------------------------------------------------+
+	|---------------|-----------------------------------------------------------------|
 	| SystemC-core  | `<demo>\SystemC-2.3.4\msvc10\SystemC\SystemC-core.vcxproj`      |
-	+---------------+-----------------------------------------------------------------+
 	| SystemC       | `<demo>\SystemC-2.3.4\msvc10\SystemC\SystemC.vcxproj`           |
-	+---------------+-----------------------------------------------------------------+
 	| uvm-systemc   | `<demo>\uvm-systemc-1.0-beta5\msvc14\uvmsc\uvm-systemc.vcxproj` |
-	+---------------+-----------------------------------------------------------------+
 
 2. Retarget all projects to your MSVC installation.  
 
