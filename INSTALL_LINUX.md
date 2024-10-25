@@ -96,7 +96,7 @@ sections, below.
 
 5. [Configure and Build UVM/SystemC]
 
-6. [Build and Test the Demonstration Project Executables]
+6. [Build and Test the Demonstration Project Executables](#Build-and-Test-the-Demonstration-Project-Executables)
 
 7. [Debian (Bookworm) Configuration Issues](#Debian-(Bookworm)-Configuration-Issues)
 
