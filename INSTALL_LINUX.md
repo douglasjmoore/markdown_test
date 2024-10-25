@@ -53,15 +53,12 @@ user@verify:~$
 __NOTA BENE__: In the specific examples shown in this procedure, the
 following values apply:
 
-+------------------------------+-------------+------------------------+
+
 | __DESCRIPTION__              | __SYMBOL__  | __VALUE__              |
-+------------------------------+-------------+------------------------+
+|------------------------------|-------------|------------------------|
 | System Name                  | HOSTNAME    | `verify`               |
-+------------------------------+-------------+------------------------+
 | User's home directory        | HOME        | `/home/user`           |
-+------------------------------+-------------+------------------------+
 | UVM demonstration directory  | DEMO        | `/home/user/uvm-demo`  |
-+------------------------------+-------------+------------------------+
 
 __Specific library versions__ are called for in this procedure, as
 incompatabilities were identified between the various software
@@ -88,17 +85,18 @@ sections, below.
 
 1. [Download This Repository from GitHub](#Download-This-Repository-from-GitHub)
 
-2. [Download SystemC and UVM/SystemC Archives]
+2. [Download SystemC and UVM/SystemC Archives](#Download-SystemC-and-UVM/SystemC-Archives)
 
-3. [Unpack the SystemC and UVM/SystemC Archives]
+3. [Unpack the SystemC and UVM/SystemC Archives](#Unpack-the-SystemC-and-UVM/SystemC-Archives)
 
-4. [Configure and Build SystemC]
+4. [Configure and Build SystemC](#Configure-and-Build-SystemC)
 
-5. [Configure and Build UVM/SystemC]
+5. [Configure and Build UVM/SystemC](#Configure-and-Build-UVM/SystemC)
 
 6. [Build and Test the Demonstration Project Executables](#Build-and-Test-the-Demonstration-Project-Executables)
 
 7. [Debian (Bookworm) Configuration Issues](#Debian-Bookworm-Configuration-Issues)
+
 
 
 Download This Repository from GitHub
