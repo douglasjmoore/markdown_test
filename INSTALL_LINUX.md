@@ -763,7 +763,7 @@ Press any key to close this window . . .
 ```
 
 
-Debian Bookworm Configuration Issues
+Debian /(Bookworm/) Configuration Issues
 ===============================================================================
 
 Whilst building the SystemC libraries, three configuration issues
