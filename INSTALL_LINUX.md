@@ -98,7 +98,7 @@ sections, below.
 
 6. [Build and Test the Demonstration Project Executables](#Build-and-Test-the-Demonstration-Project-Executables)
 
-7. [Debian (Bookworm) Configuration Issues](#Debian-(Bookworm)-Configuration-Issues)
+7. [Debian (Bookworm) Configuration Issues](#Debian-Bookworm-Configuration-Issues)
 
 
 Download This Repository from GitHub
@@ -763,7 +763,7 @@ Press any key to close this window . . .
 ```
 
 
-Debian (Bookworm) Configuration Issues
+Debian Bookworm Configuration Issues
 ===============================================================================
 
 Whilst building the SystemC libraries, three configuration issues
