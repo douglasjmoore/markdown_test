@@ -4,7 +4,7 @@ Installation Notes For The Project 'uvm-EXAMPLE-single_cycle'
 
 **Contents**
  * [Installation Notes for Linux](Installation Notes for Linux)
- * [Installation Notes for Windows](Installation Notes for Windows)
+ * [Installation Notes for Windows](#Installation-Notes-for-Windows)
 
 
 Installation Notes for Linux
