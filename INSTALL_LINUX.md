@@ -86,7 +86,7 @@ sections, below.
 
 ### Installation Steps
 
-1. [Download This Repository from GitHub]
+1. [Download This Repository from GitHub](#Download-This-Repository-from-GitHub)
 
 2. [Download SystemC and UVM/SystemC Archives]
 
@@ -98,7 +98,7 @@ sections, below.
 
 6. [Build and Test the Demonstration Project Executables]
 
-7. [Debian (Bookworm) Configuration Issues]
+7. [Debian (Bookworm) Configuration Issues](#Debian-(Bookworm)-Configuration-Issues)
 
 
 Download This Repository from GitHub
