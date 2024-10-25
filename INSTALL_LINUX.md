@@ -85,7 +85,7 @@ sections, below.
 
 1. [Download This Repository from GitHub](#Download-This-Repository-from-GitHub)
 
-2. [Download SystemC and UVM/SystemC Archives](#Download-SystemC-and-UVM/SystemC-Archives)
+2. [Download SystemC and UVM/SystemC Archives](#Download-SystemC-and-UVMSystemC-Archives)
 
 3. [Unpack the SystemC and UVM/SystemC Archives](#Unpack-the-SystemC-and-UVM/SystemC-Archives)
 
