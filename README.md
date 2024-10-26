@@ -24,7 +24,7 @@ Licensing and Copyright
 -----------------------
 
 See the separate [LICENSE](LICENSE) and [NOTICE](NOTICE)
-files to determine your rights and responsiblities for using the
+files to determine your rights and responsibilities for using the
 UVM/SystemC Demonstration Project.
 
 
@@ -68,23 +68,23 @@ available reference implementation of UVM/SystemC (1.0-beta5) was not
 compatible with the available SystemC 3.0.0 implementation.
 
 2. The C++ 2020 standard was selected, as it is the most recent
-standard combatible with the SystemC and UVM/SystemC reference
+standard compatible with the SystemC and UVM/SystemC reference
 implementations.  The C++ 2023 standard deprecates, or alters,
 several language features used by the reference implementations.
 As the project goals do not include active maintenance of the
-reference implementaitons, the most-recent, compatible standard
+reference implementations, the most-recent, compatible standard
 was used.
 
 3. Several compilation issues were found in the Windows reference
 implementations of SystemC and UVM/SystemC.  For example, some MSVC
-library incompatabilities were found.  The issues identified during
+library incompatibilities were found.  The issues identified during
 the development of this project were resolved as part of the install
 process.
 
 4. This project's use of the C++ 2020 standard is incompatible with
 most of the default SystemC library packages installed under the
 contemporary Linux distributions.  Local builds and static linking
-are used to avoid problems which would otherwise occurr from
+are used to avoid problems which would otherwise occur from
 dynamic linking with nominal SystemC library installations.
 
 
