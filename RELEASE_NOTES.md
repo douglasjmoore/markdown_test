@@ -2,7 +2,7 @@
 Demo-UVM-SystemC-C++ Release Notes
 ==================================
 
-Douglas John Moore, September 10, 2024
+Douglas John Moore, September 26, 2024
 
 
 License
