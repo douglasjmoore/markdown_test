@@ -17,6 +17,8 @@ The installation has been tested using the following Linux
 distribution and tools:
 
 Debian GNU/Linux 12 (bookworm)
+------------------------------
+
 * Distribution
   * Debian Version 12.5
   * Kernel 6.1.90-1 (2024-05-03)
