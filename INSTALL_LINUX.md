@@ -474,7 +474,7 @@ For the brave, singular use of the `make install` command builds and
 installs SystemC without checking.
 
 For those familiar with `make`, the author suggests use of the `-j`
-(alternately `--jobs`) command line switch to reduce the wait whilst
+(alternately `--jobs`) command-line switch to reduce the wait whilst
 executing the build and check steps.
 
 
@@ -499,11 +499,11 @@ of which is mandatory, the second simply for convenience:
 
 ### UVM/SystemC Configuration and Build Steps
 
-1. [Create the Build Directory for UVM/SystemC]
+1. [Create the Build Directory for UVM/SystemC](#Create-the-Build-Directory-for-UVMSystemC)
 
-2. [Configure the UVM/SystemC Build]
+2. [Configure the UVM/SystemC Build](#Configure-the-UVMSystemC-Build)
 
-3. [Build, Check, and Install UVM/SystemC]
+3. [Build, Check, and Install UVM/SystemC](#Build-Check-and-Install-UVMSystemC)
 
 
 ### Quick Command Summary
@@ -600,7 +600,8 @@ Build settings:
    Include debug symbols:           no
    Generate instrumentation calls:  no
    Regular expression library:      POSIX
----------------------------------------------------------------------user@verify:~/uvm-demo/uvm-systemc-1.0-beta5/objdir$
+---------------------------------------------------------------------
+user@verify:~/uvm-demo/uvm-systemc-1.0-beta5/objdir$
 ```
 
 
@@ -639,7 +640,7 @@ For the brave, singular use of the `make install` command builds and
 installs UVM/SystemC without checking.
 
 For those familiar with `make`, the author suggests use of the `-j`
-(alternately `--jobs`) command line switch to reduce the wait whilst
+(alternately `--jobs`) command-line switch to reduce the wait whilst
 executing the build and check steps.
 
 
@@ -666,7 +667,6 @@ $ ./uvm-EXAMPLE-single_cycle
 This is an example of the expected test output:
 
 ```
-
         SystemC 2.3.4-Accellera --- Sep 30 2024 08:24:39
         Copyright (c) 1996-2022 by all Contributors,
         ALL RIGHTS RESERVED
@@ -764,15 +764,14 @@ Press any key to close this window . . .
 Debian (Bookworm) Configuration Issues
 ===============================================================================
 
-Whilst building the SystemC libraries, three configuration issues
-were observed.  Two are system software issues, and the third is a
-user issue.  Note that the authors used a minimal Debian (bookworm)
-virtual machine as their starting point.
+Whilst building the SystemC libraries, system configuration issues
+were observed.  Note that the authors used a minimal Debian
+(bookworm) virtual machine as their starting point.
 
 The authors solutions to these issues are
 discussed below:
 
-1. [Bootstrap Failure due to Missing `aclocal` Command]
+1. [Bootstrap Failure due to Missing `aclocal` Command](#Bootstrap-Failure-due-to-Missing-aclocal-Command)
 
 2. [Bootstrap Failure due to Missing `libtoolize` Command]
 
