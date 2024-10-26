@@ -122,9 +122,9 @@ reference version 2.3.4.
 
 Links to the SystemC-2.3.4 reference archives:
 
-1. [Tarball](https://github.com/accellera-official/systemc/archive/refs/tags/2.3.4.tar.gz)
+1. [SystemC Tarball](https://github.com/accellera-official/systemc/archive/refs/tags/2.3.4.tar.gz)
 
-2. [Zip File](https://github.com/accellera-official/systemc/archive/refs/tags/2.3.4.zip)
+2. [SystemC Zip File](https://github.com/accellera-official/systemc/archive/refs/tags/2.3.4.zip)
 
 
 ### UVM/SystemC Reference Version 1.0 beta5
@@ -166,7 +166,7 @@ the directory `<demo>\systemc-2.3.4`.
 After unpacking, as a sanity check, you should see the the file
 `<demo>\systemc-2.3.4\README.md`, amongst others.
 
-For example, using the Windows command shell, you should see somthing
+For example, using the Windows command shell, you should see something
 similar to the following when you do a directory listing of the files
 in `<demo>\systemc-2.3.4`:
 
@@ -213,7 +213,7 @@ directory `<demo>\uvm-systemc-1.0-beta5`.
 After unpacking, you should see the the file
 `<demo>\uvm-systemc-1.0-beta5\README.md`, amongst others.
 
-For example, using the Windows command shell, you should see somthing
+For example, using the Windows command shell, you should see something
 similar to the following when you do a directory listing of the files
 in `<demo>\uvm-systemc-1.0-beta5`:
 
