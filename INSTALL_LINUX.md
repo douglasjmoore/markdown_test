@@ -151,11 +151,11 @@ Download one of the two available distribution files of the SystemC
 reference version 2.3.4. This can be accomplished by the 'wget' command to 
 downloaded to a 'know' directory.
 
-Links to the SystemC-2.3.4 reference archives as tarballs:
+Links to the SystemC-2.3.4 reference:
 
-1. [Tarball](https://github.com/accellera-official/systemc/archive/refs/tags/2.3.4.tar.gz)
+1. [SystemC Tarball](https://github.com/accellera-official/systemc/archive/refs/tags/2.3.4.tar.gz)
 
-2. [Zip File](https://github.com/accellera-official/systemc/archive/refs/tags/2.3.4.zip)
+2. [SystemC Zip File](https://github.com/accellera-official/systemc/archive/refs/tags/2.3.4.zip)
 
 An example that will download the file from a given URL (Uniform Resource 
 Locator) and save it in the current directory. 
@@ -302,13 +302,13 @@ being the use of the C\+\+20 standard.
 
 ### SystemC Configuration and Build Steps
 
-1. [Bootstrap the SystemC Configuration]
+1. [Bootstrap the SystemC Configuration](#Bootstrap the SystemC Configuration)
 
-2. [Create the Build Direcotry]
+2. [Create the Build Directory](#Create the Build Directory)
 
-3. [Configure the SystemC Build]
+3. [Configure the SystemC Build](#Configure the SystemC Build)
 
-4. [Build, Check, and Install SystemC]
+4. [Build, Check, and Install SystemC](#Build, Check, and Install SystemC)
 
 
 ### Quick Command Summary
@@ -366,7 +366,7 @@ user@verify:~/uvm-demo/systemc-2.3.4$
 ```
 
 
-Create the Build Direcotry
+Create the Build Directory
 -------------------------------------------------------------------------------
 
 From the SystemC directory, create the build directory using:
