@@ -773,11 +773,11 @@ discussed below:
 
 1. [Bootstrap Failure due to Missing `aclocal` Command](#Bootstrap-Failure-due-to-Missing-aclocal-Command)
 
-2. [Bootstrap Failure due to Missing `libtoolize` Command]
+2. [Bootstrap Failure due to Missing `libtoolize` Command](#bootstrap-failure-due-to-missing-libtoolize-command)
 
-3. [Configuration Failure due to Missing C++ Compiler]
+3. [Configuration Failure due to Missing C++ Compiler](#configuration-failure-due-to-missing-c-compiler)
 
-4. [Configuration Failure due to Missing `make` Command]
+4. [Configuration Failure due to Missing `make` Command](#configuration-failure-due-to-missing-make-command)
 
 Whether you encounter these issues, or others, will depend on how
 your system is configured.  The authors installed the following five
