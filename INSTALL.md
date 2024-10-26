@@ -77,15 +77,22 @@ and Visual Studio versions:
 |                     | Version 4.8.09037                         |
 
 
-#### Windows 10.0.19045
+Windows 10.0.19045
+------------------
 
-__VISUAL STUDIO VERSION DETAIL__
+* Visual Studio 17.11.3
+  * Microsoft Visual Studio Community 2022 \
+    Version 17.11.3
+  * VisualStudio.17.Release/17.11.3|35303.130
+  * Microsoft .NET Framework \
+    Version 4.8.09037
 
-* Microsoft Visual Studio Community 2022 \
-  Version 17.11.5
-* VisualStudio.17.Release/17.11.5|35327.3
-* Microsoft .NET Framework \
-  Version 4.8.09037
+* Visual Studio 17.11.5
+  * Microsoft Visual Studio Community 2022 \
+    Version 17.11.5
+  * VisualStudio.17.Release/17.11.5|35327.3
+  * Microsoft .NET Framework \
+    Version 4.8.09037
 
 
 ---
