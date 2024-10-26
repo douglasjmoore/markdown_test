@@ -61,7 +61,7 @@ following values apply:
 | UVM demonstration directory  | DEMO        | `/home/user/uvm-demo`  |
 
 __Specific library versions__ are called for in this procedure, as
-incompatabilities were identified between the various software
+incompatibilities were identified between the various software
 reference versions when this UVM/SystemC Demonstration Project
 commenced.  As this project progresses, it is likely that updated
 reference libraries will be incorporated.  When these updates are
@@ -137,7 +137,7 @@ Download SystemC and UVM/SystemC Archives
 ===============================================================================
 
 Specific library versions are called for in this step, as various
-incompatabilities were identified between the software reference
+incompatibilities were identified between the software reference
 versions when this UVM/SystemC Demonstration Project was commenced.  
 
 The authors note that a newer UVM/SystemC beta version were released
@@ -666,7 +666,7 @@ $ ./uvm-EXAMPLE-single_cycle
 
 This is an example of the expected test output:
 
-```
+```bash
         SystemC 2.3.4-Accellera --- Sep 30 2024 08:24:39
         Copyright (c) 1996-2022 by all Contributors,
         ALL RIGHTS RESERVED
@@ -826,7 +826,7 @@ Configuration Failure due to Missing C++ Compiler
 -------------------------------------------------------------------------------
 
 The authors' solution to this problem was to install the `g++`
-package.  The following (abriged output) was observed whilst
+package.  The following (abridged output) was observed whilst
 executing the configuration of SystemC; observe that the
 configuration script detects an error, but message is somewhat
 misleading:
@@ -867,7 +867,7 @@ Configuration Failure due to Missing `make` Command
 -------------------------------------------------------------------------------
 
 The authors' solution to this problem was to install the `make`
-package.  The following (abriged output) was observed whilst
+package.  The following (abridged output) was observed whilst
 executing the configuration of SystemC; observe that the
 configuration script was able to identify the problem and suggested
 a potential solution:
