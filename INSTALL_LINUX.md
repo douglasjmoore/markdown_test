@@ -302,13 +302,13 @@ being the use of the C\+\+20 standard.
 
 ### SystemC Configuration and Build Steps
 
-[Bootstrap the SystemC Configuration](#Bootstrap the SystemC Configuration)
+1. [Bootstrap the SystemC Configuration](#Bootstrap-the-SystemC-Configuration)
 
-[Create the Build Directory](#Create the Build Directory)
+2. [Create the Build Directory](#Create-the-Build-Directory)
 
-[Configure the SystemC Build](#Configure the SystemC Build)
+3. [Configure the SystemC Build](#Configure-the-SystemC-Build)
 
-[Build, Check, and Install SystemC](#Build, Check, and Install SystemC)
+4. [Build, Check, and Install SystemC](#Build-Check-and-Install-SystemC)
 
 
 ### Quick Command Summary
