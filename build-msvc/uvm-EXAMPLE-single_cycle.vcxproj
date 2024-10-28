@@ -21,17 +21,6 @@
   <ItemGroup>
     <ClCompile Include="..\source\uvm-EXAMPLE-single_cycle.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\systemc-2.3.4\msvc10\SystemC\SystemC-core.vcxproj">
-      <Project>{c4bb70f7-ecd9-4e8d-9898-ac8f7fb73414}</Project>
-    </ProjectReference>
-    <ProjectReference Include="..\systemc-2.3.4\msvc10\SystemC\SystemC.vcxproj">
-      <Project>{86df4b8c-cf94-4ea8-b529-78997f0f30a7}</Project>
-    </ProjectReference>
-    <ProjectReference Include="..\uvm-systemc-1.0-beta5\msvc14\uvmsc\uvm-systemc.vcxproj">
-      <Project>{4f963e9a-e82d-4874-8b82-95f868497865}</Project>
-    </ProjectReference>
-  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
