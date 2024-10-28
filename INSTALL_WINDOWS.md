@@ -357,10 +357,6 @@ induced by an improperly set runtime library option.
 	* C/C++ | Code Generation | Runtime Library
 	* Select Multi-Threaded Debug DLL (/MDd)
 
-Both the SystemC-core and SystemC projects will have to be patched,
-that all suitable configuration and platform combinations compile
-successfully and correctly.
-
 Following the changes to the properties, save the solution
 and all other modified files (File|Save All).  This will help avoid
 troubles and madness.
