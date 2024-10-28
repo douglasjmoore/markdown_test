@@ -32,17 +32,16 @@
 *.app
 
 ##--Explicit Items
-/.vs/
-/build-linux/Makefile.depend
-/build-linux/Makefile.depend.bak
-/build-linux/test-EXAMPLE-single_cycle
-/build-linux/uvm-EXAMPLE-single_cycle
-/build-msvc/.vs/
-/build-msvc/Debug/
-/build-msvc/Release/
-/build-msvc/x64/
+/build-linux/
+/build-msvc/
 /systemc-2.3.4/
 /uvm-systemc-1.0-beta5/
+
+##--MSVS Items
+.vs/
+Debug/
+Release/
+x64/
 
 ##
 ##--end of file
