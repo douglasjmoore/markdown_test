@@ -7,6 +7,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "uvm-EXAMPLE-single_cycle", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6BEF4C65-739C-4A37-B6BE-A34D2BA0F55F}"
 	ProjectSection(SolutionItems) = preProject
+		..\.gitignore = ..\.gitignore
 		..\INSTALL.md = ..\INSTALL.md
 		..\INSTALL_LINUX.md = ..\INSTALL_LINUX.md
 		..\INSTALL_WINDOWS.md = ..\INSTALL_WINDOWS.md
