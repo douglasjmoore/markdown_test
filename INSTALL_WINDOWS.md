@@ -39,7 +39,7 @@ each step of the outline are detailed in the respective sections, below.
 
 Some MSVC configuration and platform combinations were observed to have
 inconsistent properties, causing build issues.  These issues are resolved
-is steps 6 and 7, which apply udpates to the added projects.
+is steps 6 and 7, which apply updates to the added projects.
 
 
 ### Installation Steps
@@ -108,7 +108,7 @@ Download SystemC and UVM/SystemC Archives
 -------------------------------------------------------------------------------
 
 Specific library versions are called for in this step, as various
-incompatabilities were identified between the software reference
+incompatibilities were identified between the software reference
 versions when this UVM/SystemC Demonstration Project was commenced.  
 
 The authors note that a newer UVM/SystemC beta version were released
