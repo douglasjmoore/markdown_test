@@ -37,7 +37,7 @@
 /systemc-2.3.4/
 /uvm-systemc-1.0-beta5/
 
-##--MSVS Items
+##--MSVS Items Need
 .vs/
 Debug/
 Release/
