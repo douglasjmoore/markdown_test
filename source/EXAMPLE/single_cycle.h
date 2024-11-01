@@ -42,7 +42,7 @@
 //  2023-08-10: Moore, Peimann: first cut.
 //  2023-08-11: Peimann: revised control signals to generic model.
 //  2023-09-09: Moore, Peimann: minor diagnostic changes.
-//  2023-09-11: Moore, Peimann: minimise diagnostic output.
+//  2023-09-11: Moore, Peimann: minimize diagnostic output.
 //
 //..1..../....2..../....3..../....4..../....5..../....6..../....7..../....8..../
 //--invocation guard
